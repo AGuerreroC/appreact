@@ -1,0 +1,1 @@
+En esta carpeta se creran los componenetes que se utilizaran en el proyecto.
